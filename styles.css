@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color:#A164DF;
+	height:250px;
+	width:800px;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+.btn,.stop{
+	background-color:#A063DD;
+	height:40px;
+	width:80px;
+	color:white;
+	border-radius:5px;
+}
